@@ -1,4 +1,6 @@
-create a login in python  
+# create a login in bash
+# /bin/bash
 
-import thinker as tk
+
+
 
